@@ -1,0 +1,2340 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Length 20385>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+0 G
+0 g
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 36.42 Tm 0 Tr (  1  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 36.42 Tm 0 Tr (#python notebook) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 47.75 Tm 0 Tr (  2  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 59.09 Tm 0 Tr (  3  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 59.09 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 59.09 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 81.15 59.09 Tm 0 Tr ("Standard output") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 59.09 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 70.43 Tm 0 Tr (  4  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 70.43 Tm 0 Tr (#standard output) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 81.77 Tm 0 Tr (  5  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 81.77 Tm 0 Tr (input) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 81.77 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 81.15 81.77 Tm 0 Tr ("Please enter something") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 196.35 81.77 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 93.11 Tm 0 Tr (  6  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 104.45 Tm 0 Tr (  7  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 104.45 Tm 0 Tr (x ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 104.45 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 71.55 104.45 Tm 0 Tr (5) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 115.79 Tm 0 Tr (  8  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 115.79 Tm 0 Tr (ch ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 66.75 115.79 Tm 0 Tr (= ) Tj  ET Q
+q 0.878 0.627 0.000 rg BT 1 0 0 -1 76.35 115.79 Tm 0 Tr ('a') Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 127.12 Tm 0 Tr (  9  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 127.12 Tm 0 Tr (isVisited ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 127.12 Tm 0 Tr (= ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 109.95 127.12 Tm 0 Tr (False) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 138.46 Tm 0 Tr ( 10  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 138.46 Tm 0 Tr (myName ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 138.46 Tm 0 Tr (= ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 95.55 138.46 Tm 0 Tr ("Yusen Peng") Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 149.80 Tm 0 Tr ( 11  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 149.80 Tm 0 Tr (#variable) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 161.14 Tm 0 Tr ( 12  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 172.48 Tm 0 Tr ( 13  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 172.48 Tm 0 Tr (#operator) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 183.82 Tm 0 Tr ( 14  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 183.82 Tm 0 Tr (x ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 183.82 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 71.55 183.82 Tm 0 Tr (30) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 195.16 Tm 0 Tr ( 15  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 195.16 Tm 0 Tr (y ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 195.16 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 71.55 195.16 Tm 0 Tr (4) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 206.49 Tm 0 Tr ( 16  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 206.49 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 206.49 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 206.49 Tm 0 Tr (x) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 206.49 Tm 0 Tr (/) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 206.49 Tm 0 Tr (y) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 206.49 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 217.83 Tm 0 Tr ( 17  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 217.83 Tm 0 Tr (#normal division) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 229.17 Tm 0 Tr ( 18  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 229.17 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 229.17 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 229.17 Tm 0 Tr (x) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 229.17 Tm 0 Tr (//) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 95.55 229.17 Tm 0 Tr (y) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 229.17 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 240.51 Tm 0 Tr ( 19  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 240.51 Tm 0 Tr (#integer division) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 251.85 Tm 0 Tr ( 20  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 251.85 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 251.85 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 251.85 Tm 0 Tr (x) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 251.85 Tm 0 Tr (**) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 95.55 251.85 Tm 0 Tr (y) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 251.85 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 263.19 Tm 0 Tr ( 21  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 263.19 Tm 0 Tr (#power) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 274.53 Tm 0 Tr ( 22  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 285.86 Tm 0 Tr ( 23  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 285.86 Tm 0 Tr (#logical operator) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 297.20 Tm 0 Tr ( 24  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 297.20 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 297.20 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 297.20 Tm 0 Tr (x ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 297.20 Tm 0 Tr (< ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 297.20 Tm 0 Tr (y ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 109.95 297.20 Tm 0 Tr (and ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 297.20 Tm 0 Tr (x) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 297.20 Tm 0 Tr (*) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 138.75 297.20 Tm 0 Tr (2 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 297.20 Tm 0 Tr (> ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 157.95 297.20 Tm 0 Tr (y) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 297.20 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 308.54 Tm 0 Tr ( 25  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 308.54 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 308.54 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 308.54 Tm 0 Tr (x ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 308.54 Tm 0 Tr (< ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 308.54 Tm 0 Tr (y ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 109.95 308.54 Tm 0 Tr (or ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 124.35 308.54 Tm 0 Tr (x) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 308.54 Tm 0 Tr (*) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 133.95 308.54 Tm 0 Tr (2 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 308.54 Tm 0 Tr (> ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 153.15 308.54 Tm 0 Tr (y) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 308.54 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 319.88 Tm 0 Tr ( 26  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 319.88 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 319.88 Tm 0 Tr (\() Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 81.15 319.88 Tm 0 Tr (not) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 319.88 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 319.88 Tm 0 Tr (x ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 319.88 Tm 0 Tr (< ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 119.55 319.88 Tm 0 Tr (y) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 319.88 Tm 0 Tr (\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 331.22 Tm 0 Tr ( 27  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 342.56 Tm 0 Tr ( 28  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 342.56 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 342.56 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 342.56 Tm 0 Tr (ch) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 342.56 Tm 0 Tr (,) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 95.55 342.56 Tm 0 Tr (x) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 342.56 Tm 0 Tr (,) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 105.15 342.56 Tm 0 Tr (myName) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 342.56 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 353.90 Tm 0 Tr ( 29  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 353.90 Tm 0 Tr (#to print out multiple variables \(separare by commas\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 365.23 Tm 0 Tr ( 30  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 376.57 Tm 0 Tr ( 31  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 376.57 Tm 0 Tr (y ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 376.57 Tm 0 Tr (= ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 376.57 Tm 0 Tr (str) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 376.57 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 376.57 Tm 0 Tr (x) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 376.57 Tm 0 Tr (\) ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 105.15 376.57 Tm 0 Tr (#convert to str) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 387.91 Tm 0 Tr ( 32  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 387.91 Tm 0 Tr (z ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 387.91 Tm 0 Tr (= ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 387.91 Tm 0 Tr (int) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 387.91 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 387.91 Tm 0 Tr (y) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 387.91 Tm 0 Tr (\) ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 105.15 387.91 Tm 0 Tr (#convert to int) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 399.25 Tm 0 Tr ( 33  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 399.25 Tm 0 Tr (score ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 81.15 399.25 Tm 0 Tr (= ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 399.25 Tm 0 Tr (float) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 399.25 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 119.55 399.25 Tm 0 Tr (z) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 399.25 Tm 0 Tr (\) ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 133.95 399.25 Tm 0 Tr (#convert to float) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 410.59 Tm 0 Tr ( 34  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 410.59 Tm 0 Tr (#data type casting) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 421.93 Tm 0 Tr ( 35  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 433.27 Tm 0 Tr ( 36  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 433.27 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 433.27 Tm 0 Tr (\() Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 81.15 433.27 Tm 0 Tr (type) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 433.27 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 105.15 433.27 Tm 0 Tr (z) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 433.27 Tm 0 Tr (\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 444.60 Tm 0 Tr ( 37  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 444.60 Tm 0 Tr (#get the type  <class 'int'>) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 455.94 Tm 0 Tr ( 38  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 467.28 Tm 0 Tr ( 39  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 467.28 Tm 0 Tr (#numbers in Python -- int, float, complex) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 478.62 Tm 0 Tr ( 40  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 489.96 Tm 0 Tr ( 41  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 489.96 Tm 0 Tr (#treat string as arrays) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 501.30 Tm 0 Tr ( 42  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 501.30 Tm 0 Tr (prompt ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 501.30 Tm 0 Tr (= ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 95.55 501.30 Tm 0 Tr ("Hello guysss") Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 512.64 Tm 0 Tr ( 43  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 512.64 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 512.64 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 512.64 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 512.64 Tm 0 Tr ([) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 114.75 512.64 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 512.64 Tm 0 Tr (]\) ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 133.95 512.64 Tm 0 Tr (#use string as arrays) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 523.97 Tm 0 Tr ( 44  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 535.31 Tm 0 Tr ( 45  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 535.31 Tm 0 Tr (#loop through a string:) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 546.65 Tm 0 Tr ( 46  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 546.65 Tm 0 Tr (for ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 546.65 Tm 0 Tr (c ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 81.15 546.65 Tm 0 Tr (in ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 95.55 546.65 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 546.65 Tm 0 Tr (:) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 557.99 Tm 0 Tr ( 47  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 557.99 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 557.99 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 557.99 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 557.99 Tm 0 Tr (c) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 557.99 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 569.33 Tm 0 Tr ( 48  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 580.67 Tm 0 Tr ( 49  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 580.67 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 580.67 Tm 0 Tr (\() Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 81.15 580.67 Tm 0 Tr (len) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 580.67 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 580.67 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 580.67 Tm 0 Tr (\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 592.01 Tm 0 Tr ( 50  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 592.01 Tm 0 Tr (#get the length of the string) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 603.34 Tm 0 Tr ( 51  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 614.68 Tm 0 Tr ( 52  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 626.02 Tm 0 Tr ( 53  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 626.02 Tm 0 Tr (#membership operators \("in" and "not in"\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 637.36 Tm 0 Tr ( 54  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 637.36 Tm 0 Tr (#applicable to various data structures!!!) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 648.70 Tm 0 Tr ( 55  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 660.04 Tm 0 Tr ( 56  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 660.04 Tm 0 Tr (s ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 660.04 Tm 0 Tr (= ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 71.55 660.04 Tm 0 Tr ("guy") Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 671.38 Tm 0 Tr ( 57  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 671.38 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 671.38 Tm 0 Tr (s ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 76.35 671.38 Tm 0 Tr (in ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 671.38 Tm 0 Tr (prompt ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 671.38 Tm 0 Tr (:) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 682.71 Tm 0 Tr ( 58  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 682.71 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 682.71 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 682.71 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 100.35 682.71 Tm 0 Tr ("a-ha!") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 682.71 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 694.05 Tm 0 Tr ( 59  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 694.05 Tm 0 Tr (#in: check whether a string is present in another string \(like contains\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 705.39 Tm 0 Tr ( 60  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 716.73 Tm 0 Tr ( 61  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 716.73 Tm 0 Tr (sw ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 66.75 716.73 Tm 0 Tr (= ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 76.35 716.73 Tm 0 Tr ("gay") Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 728.07 Tm 0 Tr ( 62  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 728.07 Tm 0 Tr (if ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 728.07 Tm 0 Tr (sw ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 81.15 728.07 Tm 0 Tr (not in ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 728.07 Tm 0 Tr (prompt ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 728.07 Tm 0 Tr (: ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 739.41 Tm 0 Tr ( 63  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 739.41 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 739.41 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 739.41 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 100.35 739.41 Tm 0 Tr ("lol") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 739.41 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 750.75 Tm 0 Tr ( 64  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 750.75 Tm 0 Tr (elif ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 76.35 750.75 Tm 0 Tr (s ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 85.95 750.75 Tm 0 Tr (in ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 750.75 Tm 0 Tr (prompt ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 750.75 Tm 0 Tr (:) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 762.09 Tm 0 Tr ( 65  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 762.09 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 762.09 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 762.09 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 100.35 762.09 Tm 0 Tr ("Rly?") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 762.09 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 773.42 Tm 0 Tr ( 66  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 773.42 Tm 0 Tr (else) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 71.55 773.42 Tm 0 Tr (:) Tj  ET Q
+Q
+
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 6 0 R>>
+endobj
+6 0 obj
+<</Length 22064>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+0 G
+0 g
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 36.42 Tm 0 Tr ( 67  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 36.42 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 36.42 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 36.42 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 100.35 36.42 Tm 0 Tr ("Yo, loser") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 36.42 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 47.75 Tm 0 Tr ( 68  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 47.75 Tm 0 Tr (#not in: check whether a string is absent from another string) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 59.09 Tm 0 Tr ( 69  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 70.43 Tm 0 Tr ( 70  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 70.43 Tm 0 Tr (for ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 70.43 Tm 0 Tr (i ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 81.15 70.43 Tm 0 Tr (in range) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 70.43 Tm 0 Tr (\() Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 124.35 70.43 Tm 0 Tr (6) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 70.43 Tm 0 Tr (\):) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 81.77 Tm 0 Tr ( 71  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 81.77 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 81.77 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 81.77 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 81.77 Tm 0 Tr (i) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 81.77 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 93.11 Tm 0 Tr ( 72  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 93.11 Tm 0 Tr (    ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 71.55 93.11 Tm 0 Tr (#print value from 0 to 5) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 104.45 Tm 0 Tr ( 73  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 104.45 Tm 0 Tr (for ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 104.45 Tm 0 Tr (i ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 81.15 104.45 Tm 0 Tr (in range) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 104.45 Tm 0 Tr (\() Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 124.35 104.45 Tm 0 Tr (2) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 104.45 Tm 0 Tr (,) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 133.95 104.45 Tm 0 Tr (6) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 104.45 Tm 0 Tr (\):) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 115.79 Tm 0 Tr ( 74  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 115.79 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 115.79 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 115.79 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 115.79 Tm 0 Tr (i) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 115.79 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 127.12 Tm 0 Tr ( 75  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 127.12 Tm 0 Tr (    ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 71.55 127.12 Tm 0 Tr (#print value from 2 to 5) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 138.46 Tm 0 Tr ( 76  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 138.46 Tm 0 Tr (for ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 138.46 Tm 0 Tr (x ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 81.15 138.46 Tm 0 Tr (in range) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 138.46 Tm 0 Tr (\() Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 124.35 138.46 Tm 0 Tr (2) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 138.46 Tm 0 Tr (, ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 138.75 138.46 Tm 0 Tr (30) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 138.46 Tm 0 Tr (, ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 157.95 138.46 Tm 0 Tr (3) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 138.46 Tm 0 Tr (\):) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 149.80 Tm 0 Tr ( 77  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 149.80 Tm 0 Tr (    ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 71.55 149.80 Tm 0 Tr (#the third parameter: increment \(by default\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 161.14 Tm 0 Tr ( 78  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 161.14 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 161.14 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 161.14 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 161.14 Tm 0 Tr (x) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 161.14 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 172.48 Tm 0 Tr ( 79  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 183.82 Tm 0 Tr ( 80  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 195.16 Tm 0 Tr ( 81  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 195.16 Tm 0 Tr (#user-defined function:) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 206.49 Tm 0 Tr ( 82  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 206.49 Tm 0 Tr (def ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 71.55 206.49 Tm 0 Tr (addition) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 206.49 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 206.49 Tm 0 Tr (x ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 206.49 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 133.95 206.49 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 206.49 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 148.35 206.49 Tm 0 Tr (y ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 206.49 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 167.55 206.49 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 206.49 Tm 0 Tr (\):) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 217.83 Tm 0 Tr ( 83  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 217.83 Tm 0 Tr (    ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 71.55 217.83 Tm 0 Tr (#default parameter value    ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 229.17 Tm 0 Tr ( 84  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 229.17 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 229.17 Tm 0 Tr (return ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 105.15 229.17 Tm 0 Tr (x ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 229.17 Tm 0 Tr (+ ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 124.35 229.17 Tm 0 Tr (y   ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 240.51 Tm 0 Tr ( 85  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 251.85 Tm 0 Tr ( 86  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 251.85 Tm 0 Tr (x ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 251.85 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 71.55 251.85 Tm 0 Tr (4) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 263.19 Tm 0 Tr ( 87  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 263.19 Tm 0 Tr (y ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 263.19 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 71.55 263.19 Tm 0 Tr (7) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 274.53 Tm 0 Tr ( 88  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 274.53 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 274.53 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 274.53 Tm 0 Tr (addition) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 274.53 Tm 0 Tr (\(\)\) ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 138.75 274.53 Tm 0 Tr (#default call) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 285.86 Tm 0 Tr ( 89  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 285.86 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 285.86 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 285.86 Tm 0 Tr (addition) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 285.86 Tm 0 Tr (\() Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 124.35 285.86 Tm 0 Tr (4) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 285.86 Tm 0 Tr (,) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 133.95 285.86 Tm 0 Tr (7) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 285.86 Tm 0 Tr (\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 297.20 Tm 0 Tr ( 90  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 308.54 Tm 0 Tr ( 91  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 308.54 Tm 0 Tr (#Python lambda) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 319.88 Tm 0 Tr ( 92  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 319.88 Tm 0 Tr (#format: lambda arguments : return expression) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 331.22 Tm 0 Tr ( 93  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 331.22 Tm 0 Tr (adding ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 331.22 Tm 0 Tr (= ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 95.55 331.22 Tm 0 Tr (lambda ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 331.22 Tm 0 Tr (x) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 331.22 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 331.22 Tm 0 Tr (y ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 331.22 Tm 0 Tr (: ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 162.75 331.22 Tm 0 Tr (x ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 331.22 Tm 0 Tr (+ ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 181.95 331.22 Tm 0 Tr (y) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 342.56 Tm 0 Tr ( 94  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 342.56 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 342.56 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 342.56 Tm 0 Tr (adding) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 342.56 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 342.56 Tm 0 Tr (x) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 342.56 Tm 0 Tr (,) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 124.35 342.56 Tm 0 Tr (y) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 342.56 Tm 0 Tr (\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 353.90 Tm 0 Tr ( 95  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 365.23 Tm 0 Tr ( 96  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 376.57 Tm 0 Tr ( 97  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 376.57 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 376.57 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 376.57 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 376.57 Tm 0 Tr ([) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 114.75 376.57 Tm 0 Tr (2) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 376.57 Tm 0 Tr (:) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 124.35 376.57 Tm 0 Tr (5) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 376.57 Tm 0 Tr (]\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 387.91 Tm 0 Tr ( 98  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 387.91 Tm 0 Tr (#substring) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 399.25 Tm 0 Tr ( 99  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 399.25 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 399.25 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 399.25 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 399.25 Tm 0 Tr ([:) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 119.55 399.25 Tm 0 Tr (5) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 399.25 Tm 0 Tr (]\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 410.59 Tm 0 Tr (100  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 410.59 Tm 0 Tr (#substring from the start) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 421.93 Tm 0 Tr (101  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 421.93 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 421.93 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 421.93 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 421.93 Tm 0 Tr ([) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 114.75 421.93 Tm 0 Tr (2) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 421.93 Tm 0 Tr (:]\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 433.27 Tm 0 Tr (102  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 433.27 Tm 0 Tr (#substring to the end) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 444.60 Tm 0 Tr (103  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 455.94 Tm 0 Tr (104  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 467.28 Tm 0 Tr (105  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 467.28 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 467.28 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 467.28 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 467.28 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 467.28 Tm 0 Tr (upper) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 467.28 Tm 0 Tr (\(\)\) ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 157.95 467.28 Tm 0 Tr (#note: immutable) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 478.62 Tm 0 Tr (106  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 478.62 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 478.62 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 478.62 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 478.62 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 478.62 Tm 0 Tr (lower) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 478.62 Tm 0 Tr (\(\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 489.96 Tm 0 Tr (107  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 489.96 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 489.96 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 489.96 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 489.96 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 489.96 Tm 0 Tr (strip) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 489.96 Tm 0 Tr (\(\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 501.30 Tm 0 Tr (108  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 501.30 Tm 0 Tr (#like trim\(\) method in Java) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 512.64 Tm 0 Tr (109  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 512.64 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 512.64 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 512.64 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 512.64 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 512.64 Tm 0 Tr (lstrip) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 512.64 Tm 0 Tr (\(\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 523.97 Tm 0 Tr (110  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 523.97 Tm 0 Tr (#left trim) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 535.31 Tm 0 Tr (111  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 535.31 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 535.31 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 535.31 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 535.31 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 535.31 Tm 0 Tr (rstrip) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 535.31 Tm 0 Tr (\(\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 546.65 Tm 0 Tr (112  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 546.65 Tm 0 Tr (#right trim) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 557.99 Tm 0 Tr (113  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 569.33 Tm 0 Tr (114  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 580.67 Tm 0 Tr (115  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 580.67 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 580.67 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 580.67 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 580.67 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 580.67 Tm 0 Tr (replace) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 580.67 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 153.15 580.67 Tm 0 Tr ("u") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 580.67 Tm 0 Tr (,) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 172.35 580.67 Tm 0 Tr ("a") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 580.67 Tm 0 Tr (\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 592.01 Tm 0 Tr (116  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 592.01 Tm 0 Tr (#replace method) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 603.34 Tm 0 Tr (117  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 603.34 Tm 0 Tr (#note that the original string is not modified) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 614.68 Tm 0 Tr (118  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 614.68 Tm 0 Tr (#it returns a new string) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 626.02 Tm 0 Tr (119  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 637.36 Tm 0 Tr (120  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 637.36 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 637.36 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 637.36 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 637.36 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 637.36 Tm 0 Tr (split) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 637.36 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 143.55 637.36 Tm 0 Tr (" ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 637.36 Tm 0 Tr (\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 648.70 Tm 0 Tr (121  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 648.70 Tm 0 Tr (#just like split\(\) method in Java) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 660.04 Tm 0 Tr (122  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 660.04 Tm 0 Tr (#return type: list) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 671.38 Tm 0 Tr (123  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 682.71 Tm 0 Tr (124  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 682.71 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 682.71 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 682.71 Tm 0 Tr (sw) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 682.71 Tm 0 Tr (+) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 95.55 682.71 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 682.71 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 694.05 Tm 0 Tr (125  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 694.05 Tm 0 Tr (#strings can be concatenated together) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 705.39 Tm 0 Tr (126  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 705.39 Tm 0 Tr (#However, strings cannot be concatenated with other types unless we use "format") Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 716.73 Tm 0 Tr (127  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 716.73 Tm 0 Tr (age ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 71.55 716.73 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 81.15 716.73 Tm 0 Tr (19) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 728.07 Tm 0 Tr (128  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 728.07 Tm 0 Tr (happy_birthday ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 728.07 Tm 0 Tr (= ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 133.95 728.07 Tm 0 Tr ("Hey!You are now {}" ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 234.75 728.07 Tm 0 Tr (# use "{}" as placeholder) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 739.41 Tm 0 Tr (129  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 739.41 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 739.41 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 739.41 Tm 0 Tr (happy_birthday) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 739.41 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 153.15 739.41 Tm 0 Tr (format) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 181.95 739.41 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 186.75 739.41 Tm 0 Tr (age) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 201.15 739.41 Tm 0 Tr (\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 750.75 Tm 0 Tr (130  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 750.75 Tm 0 Tr (#use format method \(pass in the variable\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 762.09 Tm 0 Tr (131  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 773.42 Tm 0 Tr (132  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 773.42 Tm 0 Tr (quantity ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 773.42 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 105.15 773.42 Tm 0 Tr (3) Tj  ET Q
+Q
+
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 8 0 R>>
+endobj
+8 0 obj
+<</Length 21934>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+0 G
+0 g
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 36.42 Tm 0 Tr (133  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 36.42 Tm 0 Tr (itemno ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 36.42 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 95.55 36.42 Tm 0 Tr (567) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 47.75 Tm 0 Tr (134  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 47.75 Tm 0 Tr (price ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 81.15 47.75 Tm 0 Tr (= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 90.75 47.75 Tm 0 Tr (49.95) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 59.09 Tm 0 Tr (135  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 59.09 Tm 0 Tr (myorder ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 59.09 Tm 0 Tr (= ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 100.35 59.09 Tm 0 Tr ("I want {} pieces of item {} for {} dollars.") Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 70.43 Tm 0 Tr (136  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 70.43 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 70.43 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 70.43 Tm 0 Tr (myorder) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 70.43 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 119.55 70.43 Tm 0 Tr (format) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 70.43 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 153.15 70.43 Tm 0 Tr (quantity) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 191.55 70.43 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 201.15 70.43 Tm 0 Tr (itemno) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 229.95 70.43 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 239.55 70.43 Tm 0 Tr (price) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 263.55 70.43 Tm 0 Tr (\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 81.77 Tm 0 Tr (137  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 81.77 Tm 0 Tr (#we can also pass in multiple variables) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 93.11 Tm 0 Tr (138  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 104.45 Tm 0 Tr (139  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 104.45 Tm 0 Tr (#a ton of string methods) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 115.79 Tm 0 Tr (140  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 115.79 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 115.79 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 115.79 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 115.79 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 115.79 Tm 0 Tr (capitalize) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 115.79 Tm 0 Tr (\(\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 127.12 Tm 0 Tr (141  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 127.12 Tm 0 Tr (#convert the first character to upper case) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 138.46 Tm 0 Tr (142  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 138.46 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 138.46 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 138.46 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 138.46 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 138.46 Tm 0 Tr (count) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 138.46 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 143.55 138.46 Tm 0 Tr ("s") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 138.46 Tm 0 Tr (\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 149.80 Tm 0 Tr (143  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 149.80 Tm 0 Tr (#count the number of occurrence) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 161.14 Tm 0 Tr (144  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 172.48 Tm 0 Tr (145  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 172.48 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 172.48 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 172.48 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 172.48 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 172.48 Tm 0 Tr (startswith) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 172.48 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 167.55 172.48 Tm 0 Tr ("Hey") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 191.55 172.48 Tm 0 Tr (\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 183.82 Tm 0 Tr (146  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 183.82 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 183.82 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 183.82 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 183.82 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 183.82 Tm 0 Tr (endswith) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 183.82 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 157.95 183.82 Tm 0 Tr ("ssss") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 183.82 Tm 0 Tr (\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 195.16 Tm 0 Tr (147  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 195.16 Tm 0 Tr (#startswith & endswith  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 206.49 Tm 0 Tr (148  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 217.83 Tm 0 Tr (149  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 217.83 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 217.83 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 217.83 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 217.83 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 217.83 Tm 0 Tr (index) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 217.83 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 143.55 217.83 Tm 0 Tr ("s") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 217.83 Tm 0 Tr (\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 229.17 Tm 0 Tr (150  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 229.17 Tm 0 Tr (#the position of the first occurrence) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 240.51 Tm 0 Tr (151  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 240.51 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 240.51 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 240.51 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 240.51 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 240.51 Tm 0 Tr (rindex) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 240.51 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 148.35 240.51 Tm 0 Tr ("s") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 240.51 Tm 0 Tr (\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 251.85 Tm 0 Tr (152  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 251.85 Tm 0 Tr (#the position of the last occurrence) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 263.19 Tm 0 Tr (153  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 274.53 Tm 0 Tr (154  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 274.53 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 274.53 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 274.53 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 274.53 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 274.53 Tm 0 Tr (isdigit) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 274.53 Tm 0 Tr (\(\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 285.86 Tm 0 Tr (155  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 285.86 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 285.86 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 285.86 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 285.86 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 285.86 Tm 0 Tr (islower) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 285.86 Tm 0 Tr (\(\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 297.20 Tm 0 Tr (156  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 297.20 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 297.20 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 297.20 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 297.20 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 297.20 Tm 0 Tr (isupper) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 297.20 Tm 0 Tr (\(\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 308.54 Tm 0 Tr (157  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 319.88 Tm 0 Tr (158  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 319.88 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 319.88 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 319.88 Tm 0 Tr (prompt) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 319.88 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 319.88 Tm 0 Tr (title) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 319.88 Tm 0 Tr (\(\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 331.22 Tm 0 Tr (159  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 331.22 Tm 0 Tr (#convert the first character of each word to upper case) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 342.56 Tm 0 Tr (160  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 353.90 Tm 0 Tr (161  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 353.90 Tm 0 Tr (#random number) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 365.23 Tm 0 Tr (162  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 365.23 Tm 0 Tr (import ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 85.95 365.23 Tm 0 Tr (random) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 376.57 Tm 0 Tr (163  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 376.57 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 376.57 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 376.57 Tm 0 Tr (random) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 376.57 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 376.57 Tm 0 Tr (randrange) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 376.57 Tm 0 Tr (\() Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 162.75 376.57 Tm 0 Tr (1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 376.57 Tm 0 Tr (,) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 172.35 376.57 Tm 0 Tr (10) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 181.95 376.57 Tm 0 Tr (\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 387.91 Tm 0 Tr (164  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 387.91 Tm 0 Tr (#generate a random number between 1 to 10) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 399.25 Tm 0 Tr (165  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 410.59 Tm 0 Tr (166  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 421.93 Tm 0 Tr (167  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 421.93 Tm 0 Tr (#useful data structure--list) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 433.27 Tm 0 Tr (168  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 433.27 Tm 0 Tr (#list can contain different data type) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 444.60 Tm 0 Tr (169  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 444.60 Tm 0 Tr (my_list ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 444.60 Tm 0 Tr (= [) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 105.15 444.60 Tm 0 Tr ("Java") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 444.60 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 143.55 444.60 Tm 0 Tr ("C") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 444.60 Tm 0 Tr (,) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 162.75 444.60 Tm 0 Tr ("C++") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 444.60 Tm 0 Tr (,) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 191.55 444.60 Tm 0 Tr ("R") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 444.60 Tm 0 Tr (]) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 455.94 Tm 0 Tr (170  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 455.94 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 455.94 Tm 0 Tr (\() Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 81.15 455.94 Tm 0 Tr (len) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 455.94 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 455.94 Tm 0 Tr (my_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 455.94 Tm 0 Tr (\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 467.28 Tm 0 Tr (171  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 467.28 Tm 0 Tr (#the length of the list) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 478.62 Tm 0 Tr (172  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 478.62 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 478.62 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 478.62 Tm 0 Tr (my_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 478.62 Tm 0 Tr ([) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 119.55 478.62 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 478.62 Tm 0 Tr (]\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 489.96 Tm 0 Tr (173  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 489.96 Tm 0 Tr (#access item) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 501.30 Tm 0 Tr (174  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 501.30 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 501.30 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 501.30 Tm 0 Tr (my_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 501.30 Tm 0 Tr ([-) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 124.35 501.30 Tm 0 Tr (1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 501.30 Tm 0 Tr (]\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 512.64 Tm 0 Tr (175  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 512.64 Tm 0 Tr (#negative indexing) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 523.97 Tm 0 Tr (176  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 523.97 Tm 0 Tr (# -1: the last item) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 535.31 Tm 0 Tr (177  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 535.31 Tm 0 Tr (# -2: the second last item, etc.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 546.65 Tm 0 Tr (178  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 546.65 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 546.65 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 546.65 Tm 0 Tr (my_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 546.65 Tm 0 Tr ([) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 119.55 546.65 Tm 0 Tr (1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 546.65 Tm 0 Tr (:) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 129.15 546.65 Tm 0 Tr (4) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 546.65 Tm 0 Tr (]\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 557.99 Tm 0 Tr (179  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 557.99 Tm 0 Tr (#range indexing) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 569.33 Tm 0 Tr (180  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 580.67 Tm 0 Tr (181  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 580.67 Tm 0 Tr (my_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 580.67 Tm 0 Tr ([) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 90.75 580.67 Tm 0 Tr (1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 580.67 Tm 0 Tr (:) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 100.35 580.67 Tm 0 Tr (3) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 580.67 Tm 0 Tr (] ={) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 580.67 Tm 0 Tr ("Ruby") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 580.67 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 162.75 580.67 Tm 0 Tr ("JavaScript") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 220.35 580.67 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 592.01 Tm 0 Tr (182  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 592.01 Tm 0 Tr (#modify values in list) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 603.34 Tm 0 Tr (183  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 603.34 Tm 0 Tr (#if the length doesn't match, the list will grow or shrink accordingly) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 614.68 Tm 0 Tr (184  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 626.02 Tm 0 Tr (185  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 626.02 Tm 0 Tr (my_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 626.02 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 626.02 Tm 0 Tr (append) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 626.02 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 626.02 Tm 0 Tr ("HTML") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 626.02 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 637.36 Tm 0 Tr (186  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 637.36 Tm 0 Tr (#append to the very end ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 648.70 Tm 0 Tr (187  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 648.70 Tm 0 Tr (my_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 648.70 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 648.70 Tm 0 Tr (insert) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 648.70 Tm 0 Tr (\() Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 124.35 648.70 Tm 0 Tr (2) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 648.70 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 138.75 648.70 Tm 0 Tr ("C#") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 648.70 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 660.04 Tm 0 Tr (188  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 660.04 Tm 0 Tr (#insert elements at certain index position) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 671.38 Tm 0 Tr (189  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 682.71 Tm 0 Tr (190  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 682.71 Tm 0 Tr (another_list ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 682.71 Tm 0 Tr (= [) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 129.15 682.71 Tm 0 Tr ("CSS") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 682.71 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 162.75 682.71 Tm 0 Tr ("MATLAB") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 201.15 682.71 Tm 0 Tr (]) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 694.05 Tm 0 Tr (191  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 694.05 Tm 0 Tr (another_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 694.05 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 694.05 Tm 0 Tr (extend) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 694.05 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 148.35 694.05 Tm 0 Tr (my_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 181.95 694.05 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 705.39 Tm 0 Tr (192  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 705.39 Tm 0 Tr (#append a list to another list) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 716.73 Tm 0 Tr (193  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 716.73 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 716.73 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 716.73 Tm 0 Tr (another_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 716.73 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 728.07 Tm 0 Tr (194  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 739.41 Tm 0 Tr (195  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 739.41 Tm 0 Tr (another_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 739.41 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 739.41 Tm 0 Tr (remove) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 739.41 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 148.35 739.41 Tm 0 Tr ("CSS") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 739.41 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 750.75 Tm 0 Tr (196  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 750.75 Tm 0 Tr (#remove a particular item) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 762.09 Tm 0 Tr (197  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 762.09 Tm 0 Tr (another_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 762.09 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 762.09 Tm 0 Tr (pop) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 762.09 Tm 0 Tr (\() Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 133.95 762.09 Tm 0 Tr (1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 762.09 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 773.42 Tm 0 Tr (198  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 773.42 Tm 0 Tr (#remove an item at a particular index) Tj  ET Q
+Q
+
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 10 0 R>>
+endobj
+10 0 obj
+<</Length 20369>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+0 G
+0 g
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 36.42 Tm 0 Tr (199  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 36.42 Tm 0 Tr (another_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 36.42 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 36.42 Tm 0 Tr (index) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 36.42 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 143.55 36.42 Tm 0 Tr ("Ruby") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 36.42 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 47.75 Tm 0 Tr (200  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 47.75 Tm 0 Tr (#the index position of the first occurrence) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 59.09 Tm 0 Tr (201  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 70.43 Tm 0 Tr (202  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 70.43 Tm 0 Tr (another_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 70.43 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 70.43 Tm 0 Tr (clear) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 70.43 Tm 0 Tr (\(\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 81.77 Tm 0 Tr (203  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 81.77 Tm 0 Tr (#clear up the list) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 93.11 Tm 0 Tr (204  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 104.45 Tm 0 Tr (205  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 104.45 Tm 0 Tr (for ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 104.45 Tm 0 Tr (item ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 95.55 104.45 Tm 0 Tr (in ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 104.45 Tm 0 Tr (my_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 104.45 Tm 0 Tr (:) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 115.79 Tm 0 Tr (206  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 115.79 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 115.79 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 115.79 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 115.79 Tm 0 Tr (item) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 115.79 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 127.12 Tm 0 Tr (207  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 127.12 Tm 0 Tr (#loop through a list) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 138.46 Tm 0 Tr (208  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 149.80 Tm 0 Tr (209  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 149.80 Tm 0 Tr (for ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 149.80 Tm 0 Tr (i ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 81.15 149.80 Tm 0 Tr (in range ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 149.80 Tm 0 Tr (\() Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 129.15 149.80 Tm 0 Tr (len) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 149.80 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 148.35 149.80 Tm 0 Tr (my_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 181.95 149.80 Tm 0 Tr (\)\):) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 161.14 Tm 0 Tr (210  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 161.14 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 161.14 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 161.14 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 161.14 Tm 0 Tr (item) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 161.14 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 172.48 Tm 0 Tr (211  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 172.48 Tm 0 Tr (#alternative way to loop through a list) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 183.82 Tm 0 Tr (212  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 195.16 Tm 0 Tr (213  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 195.16 Tm 0 Tr (my_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 195.16 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 195.16 Tm 0 Tr (sort) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 195.16 Tm 0 Tr (\(\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 206.49 Tm 0 Tr (214  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 206.49 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 206.49 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 206.49 Tm 0 Tr (my_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 206.49 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 217.83 Tm 0 Tr (215  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 217.83 Tm 0 Tr (#for numbers, sort numerically in asceding order) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 229.17 Tm 0 Tr (216  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 229.17 Tm 0 Tr (#for string, sort alphabetically) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 240.51 Tm 0 Tr (217  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 240.51 Tm 0 Tr (my_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 240.51 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 240.51 Tm 0 Tr (sort) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 240.51 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 240.51 Tm 0 Tr (reverse ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 240.51 Tm 0 Tr (= ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 162.75 240.51 Tm 0 Tr (True) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 181.95 240.51 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 251.85 Tm 0 Tr (218  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 251.85 Tm 0 Tr (#sort in descending order) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 263.19 Tm 0 Tr (219  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 274.53 Tm 0 Tr (220  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 274.53 Tm 0 Tr (my_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 274.53 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 274.53 Tm 0 Tr (reverse) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 274.53 Tm 0 Tr (\(\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 285.86 Tm 0 Tr (221  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 285.86 Tm 0 Tr (#simply reverse the list) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 297.20 Tm 0 Tr (222  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 308.54 Tm 0 Tr (223  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 308.54 Tm 0 Tr (def ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 71.55 308.54 Tm 0 Tr (myfunc) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 308.54 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 105.15 308.54 Tm 0 Tr (n) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 308.54 Tm 0 Tr (\):) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 319.88 Tm 0 Tr (224  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 319.88 Tm 0 Tr (  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 61.95 319.88 Tm 0 Tr (return abs) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 319.88 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 319.88 Tm 0 Tr (n ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 319.88 Tm 0 Tr (- ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 133.95 319.88 Tm 0 Tr (50) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 319.88 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 331.22 Tm 0 Tr (225  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 331.22 Tm 0 Tr (#define a function -- closeness to 50) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 342.56 Tm 0 Tr (226  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 353.90 Tm 0 Tr (227  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 353.90 Tm 0 Tr (his_list ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 353.90 Tm 0 Tr (= [) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 109.95 353.90 Tm 0 Tr (100) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 353.90 Tm 0 Tr (, ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 133.95 353.90 Tm 0 Tr (50) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 353.90 Tm 0 Tr (, ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 153.15 353.90 Tm 0 Tr (65) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 353.90 Tm 0 Tr (, ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 172.35 353.90 Tm 0 Tr (82) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 181.95 353.90 Tm 0 Tr (, ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 191.55 353.90 Tm 0 Tr (23) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 201.15 353.90 Tm 0 Tr (]) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 365.23 Tm 0 Tr (228  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 365.23 Tm 0 Tr (his_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 365.23 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 95.55 365.23 Tm 0 Tr (sort) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 365.23 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 119.55 365.23 Tm 0 Tr (key ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 365.23 Tm 0 Tr (= ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 148.35 365.23 Tm 0 Tr (myfunc) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 177.15 365.23 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 376.57 Tm 0 Tr (229  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 376.57 Tm 0 Tr (#sorting standard -- pass in the function's name as the "key" ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 387.91 Tm 0 Tr (230  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 387.91 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 387.91 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 387.91 Tm 0 Tr (his_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 387.91 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 399.25 Tm 0 Tr (231  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 399.25 Tm 0 Tr (#sort in customized way ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 410.59 Tm 0 Tr (232  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 421.93 Tm 0 Tr (233  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 421.93 Tm 0 Tr (#case insensitive sort) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 433.27 Tm 0 Tr (234  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 433.27 Tm 0 Tr (my_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 433.27 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 433.27 Tm 0 Tr (sort) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 433.27 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 433.27 Tm 0 Tr (key ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 433.27 Tm 0 Tr (= ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 143.55 433.27 Tm 0 Tr (str) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 433.27 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 162.75 433.27 Tm 0 Tr (lower) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 433.27 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 444.60 Tm 0 Tr (235  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 444.60 Tm 0 Tr (#key = str.lower) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 455.94 Tm 0 Tr (236  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 455.94 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 455.94 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 455.94 Tm 0 Tr (my_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 455.94 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 467.28 Tm 0 Tr (237  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 478.62 Tm 0 Tr (238  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 489.96 Tm 0 Tr (239  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 489.96 Tm 0 Tr (copy_list ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 489.96 Tm 0 Tr (= ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 489.96 Tm 0 Tr (my_list) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 489.96 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 148.35 489.96 Tm 0 Tr (copy) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 489.96 Tm 0 Tr (\(\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 501.30 Tm 0 Tr (240  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 501.30 Tm 0 Tr (#copy a list) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 512.64 Tm 0 Tr (241  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 523.97 Tm 0 Tr (242  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 523.97 Tm 0 Tr (#another data structure -- tuple) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 535.31 Tm 0 Tr (243  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 535.31 Tm 0 Tr (#an unchangable data structure) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 546.65 Tm 0 Tr (244  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 546.65 Tm 0 Tr (#two solutions:) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 557.99 Tm 0 Tr (245  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 557.99 Tm 0 Tr (#1. convert to list, modify it, and convert it back \(most common method\) ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 569.33 Tm 0 Tr (246  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 569.33 Tm 0 Tr (thistuple ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 569.33 Tm 0 Tr (= \() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 114.75 569.33 Tm 0 Tr ("apple") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 569.33 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 157.95 569.33 Tm 0 Tr ("banana") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 196.35 569.33 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 205.95 569.33 Tm 0 Tr ("cherry") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 244.35 569.33 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 580.67 Tm 0 Tr (247  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 580.67 Tm 0 Tr (y ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 580.67 Tm 0 Tr (= ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 580.67 Tm 0 Tr (list) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 580.67 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 95.55 580.67 Tm 0 Tr (thistuple) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 580.67 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 592.01 Tm 0 Tr (248  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 592.01 Tm 0 Tr (y) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 57.15 592.01 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 61.95 592.01 Tm 0 Tr (append) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 592.01 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 95.55 592.01 Tm 0 Tr ("orange") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 592.01 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 603.34 Tm 0 Tr (249  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 603.34 Tm 0 Tr (thistuple ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 603.34 Tm 0 Tr (= ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 109.95 603.34 Tm 0 Tr (tuple) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 603.34 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 138.75 603.34 Tm 0 Tr (y) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 603.34 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 614.68 Tm 0 Tr (250  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 626.02 Tm 0 Tr (251  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 626.02 Tm 0 Tr (#2. add tuple to a tuple) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 637.36 Tm 0 Tr (252  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 637.36 Tm 0 Tr (thistuple ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 637.36 Tm 0 Tr (= \() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 114.75 637.36 Tm 0 Tr ("apple") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 637.36 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 157.95 637.36 Tm 0 Tr ("banana") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 196.35 637.36 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 205.95 637.36 Tm 0 Tr ("cherry") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 244.35 637.36 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 648.70 Tm 0 Tr (253  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 648.70 Tm 0 Tr (y ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 648.70 Tm 0 Tr (= \() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 76.35 648.70 Tm 0 Tr ("orange") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 648.70 Tm 0 Tr (,\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 660.04 Tm 0 Tr (254  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 660.04 Tm 0 Tr (thistuple ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 660.04 Tm 0 Tr (+= ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 660.04 Tm 0 Tr (y) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 671.38 Tm 0 Tr (255  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 671.38 Tm 0 Tr (#simply use "+=" to add tuples) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 682.71 Tm 0 Tr (256  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 682.71 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 682.71 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 682.71 Tm 0 Tr (thistuple) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 682.71 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 694.05 Tm 0 Tr (257  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 705.39 Tm 0 Tr (258  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 716.73 Tm 0 Tr (259  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 716.73 Tm 0 Tr (my_tuple ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 716.73 Tm 0 Tr (= \() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 109.95 716.73 Tm 0 Tr ("first item") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 716.73 Tm 0 Tr (,\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 728.07 Tm 0 Tr (260  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 728.07 Tm 0 Tr (#if there is only one element, the comma is required) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 739.41 Tm 0 Tr (261  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 739.41 Tm 0 Tr (another_tuple ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 739.41 Tm 0 Tr (= \() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 133.95 739.41 Tm 0 Tr ("Java") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 739.41 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 172.35 739.41 Tm 0 Tr ("C") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 739.41 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 196.35 739.41 Tm 0 Tr ("C++") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 220.35 739.41 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 229.95 739.41 Tm 0 Tr ("Python") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 268.35 739.41 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 750.75 Tm 0 Tr (262  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 750.75 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 750.75 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 750.75 Tm 0 Tr (my_tuple) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 750.75 Tm 0 Tr ([) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 124.35 750.75 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 750.75 Tm 0 Tr (]\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 762.09 Tm 0 Tr (263  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 762.09 Tm 0 Tr (#access item in a tuple) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 773.42 Tm 0 Tr (264  ) Tj  ET Q
+Q
+
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 12 0 R>>
+endobj
+12 0 obj
+<</Length 22859>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+0 G
+0 g
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 36.42 Tm 0 Tr (265  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 36.42 Tm 0 Tr (tuple1 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 36.42 Tm 0 Tr (= \() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 100.35 36.42 Tm 0 Tr ("a") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 36.42 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 36.42 Tm 0 Tr ("b" ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 36.42 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 153.15 36.42 Tm 0 Tr ("c") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 36.42 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 47.75 Tm 0 Tr (266  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 47.75 Tm 0 Tr (tuple2 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 47.75 Tm 0 Tr (= \() Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 100.35 47.75 Tm 0 Tr (1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 47.75 Tm 0 Tr (, ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 114.75 47.75 Tm 0 Tr (2) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 47.75 Tm 0 Tr (, ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 129.15 47.75 Tm 0 Tr (3) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 47.75 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 59.09 Tm 0 Tr (267  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 70.43 Tm 0 Tr (268  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 70.43 Tm 0 Tr (tuple3 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 70.43 Tm 0 Tr (= ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 95.55 70.43 Tm 0 Tr (tuple1 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 70.43 Tm 0 Tr (+ ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 138.75 70.43 Tm 0 Tr (tuple2) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 81.77 Tm 0 Tr (269  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 81.77 Tm 0 Tr (#join two tuples \(simply use "+"\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 93.11 Tm 0 Tr (270  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 93.11 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 93.11 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 93.11 Tm 0 Tr (tuple3) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 93.11 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 104.45 Tm 0 Tr (271  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 115.79 Tm 0 Tr (272  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 115.79 Tm 0 Tr (#tuple methods) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 127.12 Tm 0 Tr (273  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 127.12 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 127.12 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 127.12 Tm 0 Tr (another_tuple) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 127.12 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 148.35 127.12 Tm 0 Tr (count) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 127.12 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 177.15 127.12 Tm 0 Tr ("C++") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 201.15 127.12 Tm 0 Tr (\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 138.46 Tm 0 Tr (274  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 138.46 Tm 0 Tr (#count the number of occurrence) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 149.80 Tm 0 Tr (275  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 149.80 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 149.80 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 149.80 Tm 0 Tr (another_tuple) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 149.80 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 148.35 149.80 Tm 0 Tr (index) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 149.80 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 177.15 149.80 Tm 0 Tr ("Java") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 149.80 Tm 0 Tr (\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 161.14 Tm 0 Tr (276  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 161.14 Tm 0 Tr (#return the index of the first occurrence) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 172.48 Tm 0 Tr (277  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 183.82 Tm 0 Tr (278  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 183.82 Tm 0 Tr (#data structure -- set) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 195.16 Tm 0 Tr (279  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 195.16 Tm 0 Tr (#unordered, unchangeable, no duplicates) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 206.49 Tm 0 Tr (280  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 206.49 Tm 0 Tr (#"True" and "1" are considered duplicates) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 217.83 Tm 0 Tr (281  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 217.83 Tm 0 Tr (my_set ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 217.83 Tm 0 Tr (= {) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 100.35 217.83 Tm 0 Tr ("Amason") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 217.83 Tm 0 Tr (,) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 143.55 217.83 Tm 0 Tr ("Facebook") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 191.55 217.83 Tm 0 Tr (,) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 196.35 217.83 Tm 0 Tr ("Google") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 234.75 217.83 Tm 0 Tr (,) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 239.55 217.83 Tm 0 Tr ("AEP") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 263.55 217.83 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 273.15 217.83 Tm 0 Tr ("Intel") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 306.75 217.83 Tm 0 Tr (,) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 311.55 217.83 Tm 0 Tr ("Honda") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 345.15 217.83 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 229.17 Tm 0 Tr (282  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 240.51 Tm 0 Tr (283  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 240.51 Tm 0 Tr (#loop through a set ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 251.85 Tm 0 Tr (284  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 251.85 Tm 0 Tr (for ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 251.85 Tm 0 Tr (company ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 109.95 251.85 Tm 0 Tr (in ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 124.35 251.85 Tm 0 Tr (my_set) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 251.85 Tm 0 Tr (:) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 263.19 Tm 0 Tr (285  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 263.19 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 263.19 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 263.19 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 263.19 Tm 0 Tr (company) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 263.19 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 274.53 Tm 0 Tr (286  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 274.53 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 274.53 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 81.15 274.53 Tm 0 Tr ("JP Morgan Chase" ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 167.55 274.53 Tm 0 Tr (in ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 181.95 274.53 Tm 0 Tr (my_set) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 210.75 274.53 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 285.86 Tm 0 Tr (287  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 285.86 Tm 0 Tr (# membership) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 297.20 Tm 0 Tr (288  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 297.20 Tm 0 Tr (my_set) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 81.15 297.20 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 85.95 297.20 Tm 0 Tr (add) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 297.20 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 105.15 297.20 Tm 0 Tr ("OSU") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 297.20 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 308.54 Tm 0 Tr (289  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 308.54 Tm 0 Tr (#add element into a set) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 319.88 Tm 0 Tr (290  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 319.88 Tm 0 Tr (my_set) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 81.15 319.88 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 85.95 319.88 Tm 0 Tr (discard) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 319.88 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 319.88 Tm 0 Tr ("Honda") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 319.88 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 331.22 Tm 0 Tr (291  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 331.22 Tm 0 Tr (#remove element from a set) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 342.56 Tm 0 Tr (292  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 353.90 Tm 0 Tr (293  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 353.90 Tm 0 Tr (his_set ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 353.90 Tm 0 Tr (= {) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 105.15 353.90 Tm 0 Tr ("Apple") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 353.90 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 365.23 Tm 0 Tr (294  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 365.23 Tm 0 Tr (my_set) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 81.15 365.23 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 85.95 365.23 Tm 0 Tr (update) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 365.23 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 119.55 365.23 Tm 0 Tr (his_set) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 365.23 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 376.57 Tm 0 Tr (295  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 376.57 Tm 0 Tr (#merge two sets using "update" command) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 387.91 Tm 0 Tr (296  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 399.25 Tm 0 Tr (297  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 399.25 Tm 0 Tr (set1 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 399.25 Tm 0 Tr (= {) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 90.75 399.25 Tm 0 Tr ("a") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 399.25 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 114.75 399.25 Tm 0 Tr ("b") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 399.25 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 138.75 399.25 Tm 0 Tr ("c") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 399.25 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 410.59 Tm 0 Tr (298  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 410.59 Tm 0 Tr (set2 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 410.59 Tm 0 Tr (= {) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 90.75 410.59 Tm 0 Tr (1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 410.59 Tm 0 Tr (, ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 105.15 410.59 Tm 0 Tr (2) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 410.59 Tm 0 Tr (, ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 119.55 410.59 Tm 0 Tr (3) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 410.59 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 421.93 Tm 0 Tr (299  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 433.27 Tm 0 Tr (300  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 433.27 Tm 0 Tr (set3 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 433.27 Tm 0 Tr (= ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 85.95 433.27 Tm 0 Tr (set1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 433.27 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 433.27 Tm 0 Tr (union) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 433.27 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 138.75 433.27 Tm 0 Tr (set2) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 433.27 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 444.60 Tm 0 Tr (301  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 444.60 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 444.60 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 444.60 Tm 0 Tr (set3) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 444.60 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 455.94 Tm 0 Tr (302  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 455.94 Tm 0 Tr (#alternatively, use "union" command) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 467.28 Tm 0 Tr (303  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 478.62 Tm 0 Tr (304  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 489.96 Tm 0 Tr (305  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 489.96 Tm 0 Tr (x ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 489.96 Tm 0 Tr (= {) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 76.35 489.96 Tm 0 Tr ("apple") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 489.96 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 119.55 489.96 Tm 0 Tr ("banana") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 489.96 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 167.55 489.96 Tm 0 Tr ("cherry") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 489.96 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 501.30 Tm 0 Tr (306  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 501.30 Tm 0 Tr (y ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 501.30 Tm 0 Tr (= {) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 76.35 501.30 Tm 0 Tr ("google") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 501.30 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 501.30 Tm 0 Tr ("microsoft") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 177.15 501.30 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 186.75 501.30 Tm 0 Tr ("apple") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 220.35 501.30 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 512.64 Tm 0 Tr (307  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 523.97 Tm 0 Tr (308  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 523.97 Tm 0 Tr (x) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 57.15 523.97 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 61.95 523.97 Tm 0 Tr (intersection_update) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 523.97 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 157.95 523.97 Tm 0 Tr (y) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 523.97 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 535.31 Tm 0 Tr (309  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 535.31 Tm 0 Tr (#merge but only keep items present in both sets ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 546.65 Tm 0 Tr (310  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 557.99 Tm 0 Tr (311  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 557.99 Tm 0 Tr (x ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 557.99 Tm 0 Tr (= {) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 76.35 557.99 Tm 0 Tr ("apple") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 557.99 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 119.55 557.99 Tm 0 Tr ("banana") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 557.99 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 167.55 557.99 Tm 0 Tr ("cherry") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 557.99 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 569.33 Tm 0 Tr (312  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 569.33 Tm 0 Tr (y ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 569.33 Tm 0 Tr (= {) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 76.35 569.33 Tm 0 Tr ("google") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 569.33 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 569.33 Tm 0 Tr ("microsoft") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 177.15 569.33 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 186.75 569.33 Tm 0 Tr ("apple") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 220.35 569.33 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 580.67 Tm 0 Tr (313  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 592.01 Tm 0 Tr (314  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 592.01 Tm 0 Tr (z ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 592.01 Tm 0 Tr (= ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 592.01 Tm 0 Tr (x) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 592.01 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 592.01 Tm 0 Tr (intersection) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 592.01 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 592.01 Tm 0 Tr (y) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 592.01 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 603.34 Tm 0 Tr (315  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 603.34 Tm 0 Tr (#alternatively, create a new set) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 614.68 Tm 0 Tr (316  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 626.02 Tm 0 Tr (317  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 626.02 Tm 0 Tr (x ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 626.02 Tm 0 Tr (= {) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 76.35 626.02 Tm 0 Tr ("apple") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 626.02 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 119.55 626.02 Tm 0 Tr ("banana") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 626.02 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 167.55 626.02 Tm 0 Tr ("cherry") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 626.02 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 637.36 Tm 0 Tr (318  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 637.36 Tm 0 Tr (y ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 637.36 Tm 0 Tr (= {) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 76.35 637.36 Tm 0 Tr ("google") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 637.36 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 637.36 Tm 0 Tr ("microsoft") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 177.15 637.36 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 186.75 637.36 Tm 0 Tr ("apple") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 220.35 637.36 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 648.70 Tm 0 Tr (319  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 648.70 Tm 0 Tr (x) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 57.15 648.70 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 61.95 648.70 Tm 0 Tr (symmetric_difference_update) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 191.55 648.70 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 196.35 648.70 Tm 0 Tr (y) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 201.15 648.70 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 660.04 Tm 0 Tr (320  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 660.04 Tm 0 Tr (#keep only the elements that are NOT present in both sets) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 671.38 Tm 0 Tr (321  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 682.71 Tm 0 Tr (322  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 682.71 Tm 0 Tr (x ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 682.71 Tm 0 Tr (= {) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 76.35 682.71 Tm 0 Tr ("apple") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 682.71 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 119.55 682.71 Tm 0 Tr ("banana") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 682.71 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 167.55 682.71 Tm 0 Tr ("cherry") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 682.71 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 694.05 Tm 0 Tr (323  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 694.05 Tm 0 Tr (y ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 694.05 Tm 0 Tr (= {) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 76.35 694.05 Tm 0 Tr ("google") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 694.05 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 694.05 Tm 0 Tr ("microsoft") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 177.15 694.05 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 186.75 694.05 Tm 0 Tr ("apple") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 220.35 694.05 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 705.39 Tm 0 Tr (324  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 705.39 Tm 0 Tr (z ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 705.39 Tm 0 Tr (= ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 705.39 Tm 0 Tr (x) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 705.39 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 705.39 Tm 0 Tr (symmetric_difference) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 177.15 705.39 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 181.95 705.39 Tm 0 Tr (y) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 705.39 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 716.73 Tm 0 Tr (325  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 716.73 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 716.73 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 716.73 Tm 0 Tr (z) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 716.73 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 728.07 Tm 0 Tr (326  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 728.07 Tm 0 Tr (#alternatively, create a new set) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 739.41 Tm 0 Tr (327  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 750.75 Tm 0 Tr (328  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 762.09 Tm 0 Tr (329  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 762.09 Tm 0 Tr (#data structure -- dictionary) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 773.42 Tm 0 Tr (330  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 773.42 Tm 0 Tr (#ordered, changeable) Tj  ET Q
+Q
+
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 14 0 R>>
+endobj
+14 0 obj
+<</Length 23258>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+0 G
+0 g
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 36.42 Tm 0 Tr (331  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 36.42 Tm 0 Tr (resume_dict ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 36.42 Tm 0 Tr (= {) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 47.75 Tm 0 Tr (332  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 47.75 Tm 0 Tr (    ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 71.55 47.75 Tm 0 Tr ("research") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 47.75 Tm 0 Tr (: ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 129.15 47.75 Tm 0 Tr ("Dr. Suren Byna") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 47.75 Tm 0 Tr (,) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 59.09 Tm 0 Tr (333  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 59.09 Tm 0 Tr (    ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 71.55 59.09 Tm 0 Tr ("GPA") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 59.09 Tm 0 Tr (:) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 100.35 59.09 Tm 0 Tr (4.00) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 59.09 Tm 0 Tr (,) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 70.43 Tm 0 Tr (334  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 70.43 Tm 0 Tr (    ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 71.55 70.43 Tm 0 Tr ("status") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 70.43 Tm 0 Tr (: ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 119.55 70.43 Tm 0 Tr ("Honors") Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 81.77 Tm 0 Tr (335  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 52.35 81.77 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 93.11 Tm 0 Tr (336  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 93.11 Tm 0 Tr (#pairs are separated by commas) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 104.45 Tm 0 Tr (337  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 115.79 Tm 0 Tr (338  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 115.79 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 115.79 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 115.79 Tm 0 Tr (resume_dict) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 115.79 Tm 0 Tr ([) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 138.75 115.79 Tm 0 Tr ("GPA") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 115.79 Tm 0 Tr (]\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 127.12 Tm 0 Tr (339  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 127.12 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 127.12 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 127.12 Tm 0 Tr (resume_dict) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 127.12 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 138.75 127.12 Tm 0 Tr (get) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 127.12 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 157.95 127.12 Tm 0 Tr ("GPA") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 181.95 127.12 Tm 0 Tr (\)\) ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 196.35 127.12 Tm 0 Tr (#zlternative: like in Java) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 138.46 Tm 0 Tr (340  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 138.46 Tm 0 Tr (#access values) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 149.80 Tm 0 Tr (341  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 161.14 Tm 0 Tr (342  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 161.14 Tm 0 Tr (keys ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 161.14 Tm 0 Tr (= ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 85.95 161.14 Tm 0 Tr (resume_dict) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 161.14 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 161.14 Tm 0 Tr (keys) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 161.14 Tm 0 Tr (\(\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 172.48 Tm 0 Tr (343  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 172.48 Tm 0 Tr (#get a list of keys) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 183.82 Tm 0 Tr (344  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 183.82 Tm 0 Tr (values ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 183.82 Tm 0 Tr (= ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 95.55 183.82 Tm 0 Tr (resume_dict) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 183.82 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 153.15 183.82 Tm 0 Tr (values) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 181.95 183.82 Tm 0 Tr (\(\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 195.16 Tm 0 Tr (345  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 195.16 Tm 0 Tr (#get a list of value) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 206.49 Tm 0 Tr (346  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 217.83 Tm 0 Tr (347  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 217.83 Tm 0 Tr (resume_dict) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 217.83 Tm 0 Tr ([) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 109.95 217.83 Tm 0 Tr ("GPA") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 217.83 Tm 0 Tr (] = ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 153.15 217.83 Tm 0 Tr (4.01) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 229.17 Tm 0 Tr (348  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 229.17 Tm 0 Tr (#modify items) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 240.51 Tm 0 Tr (349  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 240.51 Tm 0 Tr (resume_dict) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 240.51 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 240.51 Tm 0 Tr (update) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 240.51 Tm 0 Tr (\({) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 148.35 240.51 Tm 0 Tr ("status" ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 191.55 240.51 Tm 0 Tr (: ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 201.15 240.51 Tm 0 Tr ("U.S. citizens") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 273.15 240.51 Tm 0 Tr (}\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 251.85 Tm 0 Tr (350  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 251.85 Tm 0 Tr (#modify items) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 263.19 Tm 0 Tr (351  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 274.53 Tm 0 Tr (352  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 285.86 Tm 0 Tr (353  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 285.86 Tm 0 Tr (resume_dict) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 285.86 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 285.86 Tm 0 Tr (update) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 285.86 Tm 0 Tr (\({ ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 153.15 285.86 Tm 0 Tr ("education" ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 210.75 285.86 Tm 0 Tr (: ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 220.35 285.86 Tm 0 Tr ("OSU") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 244.35 285.86 Tm 0 Tr (}\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 297.20 Tm 0 Tr (354  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 297.20 Tm 0 Tr (#add items) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 308.54 Tm 0 Tr (355  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 319.88 Tm 0 Tr (356  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 319.88 Tm 0 Tr (resume_dict) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 319.88 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 319.88 Tm 0 Tr (pop) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 319.88 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 129.15 319.88 Tm 0 Tr ("research") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 177.15 319.88 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 331.22 Tm 0 Tr (357  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 331.22 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 331.22 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 331.22 Tm 0 Tr (resume_dict) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 331.22 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 342.56 Tm 0 Tr (358  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 353.90 Tm 0 Tr (359  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 353.90 Tm 0 Tr (#loop through a dictionary) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 365.23 Tm 0 Tr (360  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 365.23 Tm 0 Tr (for ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 365.23 Tm 0 Tr (key ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 365.23 Tm 0 Tr (in ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 105.15 365.23 Tm 0 Tr (resume_dict) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 365.23 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 162.75 365.23 Tm 0 Tr (keys) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 181.95 365.23 Tm 0 Tr (\(\):) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 376.57 Tm 0 Tr (361  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 376.57 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 376.57 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 376.57 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 376.57 Tm 0 Tr (key) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 376.57 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 387.91 Tm 0 Tr (362  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 387.91 Tm 0 Tr (    ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 71.55 387.91 Tm 0 Tr (#print all keys) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 399.25 Tm 0 Tr (363  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 399.25 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 399.25 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 399.25 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 399.25 Tm 0 Tr (resume_dict) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 399.25 Tm 0 Tr ([) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 157.95 399.25 Tm 0 Tr (key) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 399.25 Tm 0 Tr (]\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 410.59 Tm 0 Tr (364  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 410.59 Tm 0 Tr (    ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 71.55 410.59 Tm 0 Tr (#print all values) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 421.93 Tm 0 Tr (365  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 433.27 Tm 0 Tr (366  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 433.27 Tm 0 Tr (#alternative way to print values) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 444.60 Tm 0 Tr (367  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 444.60 Tm 0 Tr (for ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 444.60 Tm 0 Tr (value ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 100.35 444.60 Tm 0 Tr (in ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 444.60 Tm 0 Tr (resume_dict) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 444.60 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 172.35 444.60 Tm 0 Tr (values) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 201.15 444.60 Tm 0 Tr (\(\):) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 455.94 Tm 0 Tr (368  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 455.94 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 455.94 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 455.94 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 455.94 Tm 0 Tr (value) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 455.94 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 467.28 Tm 0 Tr (369  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 478.62 Tm 0 Tr (370  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 478.62 Tm 0 Tr (for ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 478.62 Tm 0 Tr (k) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 478.62 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 85.95 478.62 Tm 0 Tr (v ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 95.55 478.62 Tm 0 Tr (in ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 478.62 Tm 0 Tr (resume_dict) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 478.62 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 167.55 478.62 Tm 0 Tr (items) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 191.55 478.62 Tm 0 Tr (\(\):) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 489.96 Tm 0 Tr (371  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 489.96 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 489.96 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 489.96 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 489.96 Tm 0 Tr (k) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 489.96 Tm 0 Tr (,) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 489.96 Tm 0 Tr (v) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 489.96 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 501.30 Tm 0 Tr (372  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 501.30 Tm 0 Tr (#print out each entry in the dictionary) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 512.64 Tm 0 Tr (373  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 523.97 Tm 0 Tr (374  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 523.97 Tm 0 Tr (#The notion of object-oriented programming) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 535.31 Tm 0 Tr (375  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 535.31 Tm 0 Tr (class ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 535.31 Tm 0 Tr (Person) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 535.31 Tm 0 Tr (:) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 546.65 Tm 0 Tr (376  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 546.65 Tm 0 Tr (   ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 66.75 546.65 Tm 0 Tr (#constructor: self: just like "this" in Java) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 557.99 Tm 0 Tr (377  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 557.99 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 557.99 Tm 0 Tr (def ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 90.75 557.99 Tm 0 Tr (__init__) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 557.99 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 133.95 557.99 Tm 0 Tr (self) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 557.99 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 162.75 557.99 Tm 0 Tr (name) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 181.95 557.99 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 191.55 557.99 Tm 0 Tr (age) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 557.99 Tm 0 Tr (\):) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 569.33 Tm 0 Tr (378  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 569.33 Tm 0 Tr (        ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 569.33 Tm 0 Tr (self) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 569.33 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 569.33 Tm 0 Tr (name ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 569.33 Tm 0 Tr (= ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 148.35 569.33 Tm 0 Tr (name) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 580.67 Tm 0 Tr (379  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 580.67 Tm 0 Tr (        ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 580.67 Tm 0 Tr (self) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 580.67 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 580.67 Tm 0 Tr (age ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 580.67 Tm 0 Tr (= ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 580.67 Tm 0 Tr (age) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 592.01 Tm 0 Tr (380  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 603.34 Tm 0 Tr (381  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 603.34 Tm 0 Tr (    ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 71.55 603.34 Tm 0 Tr (#toString method: \(otherwise, we cannot print the object directly\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 614.68 Tm 0 Tr (382  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 614.68 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 614.68 Tm 0 Tr (def ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 90.75 614.68 Tm 0 Tr (__str__) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 614.68 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 614.68 Tm 0 Tr (self) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 614.68 Tm 0 Tr (\):) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 626.02 Tm 0 Tr (383  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 626.02 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 626.02 Tm 0 Tr (return ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 626.02 Tm 0 Tr (f"{) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 138.75 626.02 Tm 0 Tr (self) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 626.02 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 162.75 626.02 Tm 0 Tr (name) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 181.95 626.02 Tm 0 Tr (} --> {) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 215.55 626.02 Tm 0 Tr (self) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 234.75 626.02 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 239.55 626.02 Tm 0 Tr (age) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 253.95 626.02 Tm 0 Tr (}") Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 637.36 Tm 0 Tr (384  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 637.36 Tm 0 Tr (        ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 90.75 637.36 Tm 0 Tr (#string formating) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 648.70 Tm 0 Tr (385  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 660.04 Tm 0 Tr (386  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 660.04 Tm 0 Tr (person1 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 660.04 Tm 0 Tr (= ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 660.04 Tm 0 Tr (Person) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 660.04 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 133.95 660.04 Tm 0 Tr ("Yusen") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 660.04 Tm 0 Tr (, ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 177.15 660.04 Tm 0 Tr (19) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 660.04 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 671.38 Tm 0 Tr (387  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 671.38 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 671.38 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 671.38 Tm 0 Tr (person1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 671.38 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 682.71 Tm 0 Tr (388  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 694.05 Tm 0 Tr (389  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 694.05 Tm 0 Tr (#inheritance) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 705.39 Tm 0 Tr (390  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 705.39 Tm 0 Tr (class ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 705.39 Tm 0 Tr (Student) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 705.39 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 119.55 705.39 Tm 0 Tr (Person) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 705.39 Tm 0 Tr (\):) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 716.73 Tm 0 Tr (391  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 716.73 Tm 0 Tr (    ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 71.55 716.73 Tm 0 Tr (#constructor) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 728.07 Tm 0 Tr (392  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 728.07 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 728.07 Tm 0 Tr (def ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 90.75 728.07 Tm 0 Tr (__init__) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 728.07 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 133.95 728.07 Tm 0 Tr (self) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 728.07 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 162.75 728.07 Tm 0 Tr (name) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 181.95 728.07 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 191.55 728.07 Tm 0 Tr (age) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 728.07 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 215.55 728.07 Tm 0 Tr (year) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 234.75 728.07 Tm 0 Tr (\):) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 739.41 Tm 0 Tr (393  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 739.41 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 739.41 Tm 0 Tr (super) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 739.41 Tm 0 Tr (\(\).) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 739.41 Tm 0 Tr (__init__) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 739.41 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 172.35 739.41 Tm 0 Tr (name) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 191.55 739.41 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 201.15 739.41 Tm 0 Tr (age) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 215.55 739.41 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 750.75 Tm 0 Tr (394  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 750.75 Tm 0 Tr (        ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 90.75 750.75 Tm 0 Tr (#super keyword) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 762.09 Tm 0 Tr (395  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 762.09 Tm 0 Tr (        ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 762.09 Tm 0 Tr (self) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 762.09 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 114.75 762.09 Tm 0 Tr (graduationyear ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 762.09 Tm 0 Tr (= ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 196.35 762.09 Tm 0 Tr (year) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 773.42 Tm 0 Tr (396  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 773.42 Tm 0 Tr (        ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 90.75 773.42 Tm 0 Tr (#add more property) Tj  ET Q
+Q
+
+endstream
+endobj
+15 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 16 0 R>>
+endobj
+16 0 obj
+<</Length 10449>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+0 G
+0 g
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 36.42 Tm 0 Tr (397  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 36.42 Tm 0 Tr (        ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 47.75 Tm 0 Tr (398  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 47.75 Tm 0 Tr (student1 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 47.75 Tm 0 Tr (= ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 105.15 47.75 Tm 0 Tr (Student) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 47.75 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 143.55 47.75 Tm 0 Tr ("Shit") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 47.75 Tm 0 Tr (, ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 181.95 47.75 Tm 0 Tr (10) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 191.55 47.75 Tm 0 Tr (, ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 201.15 47.75 Tm 0 Tr (2026) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 220.35 47.75 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 59.09 Tm 0 Tr (399  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 59.09 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 59.09 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 59.09 Tm 0 Tr (student1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 59.09 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 70.43 Tm 0 Tr (400  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 70.43 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 70.43 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 70.43 Tm 0 Tr (student1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 70.43 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 124.35 70.43 Tm 0 Tr (graduationyear) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 191.55 70.43 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 81.77 Tm 0 Tr (401  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 93.11 Tm 0 Tr (402  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 104.45 Tm 0 Tr (403  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 104.45 Tm 0 Tr (#File I/O) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 115.79 Tm 0 Tr (404  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 115.79 Tm 0 Tr (#reading) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 127.12 Tm 0 Tr (405  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 127.12 Tm 0 Tr (f ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 127.12 Tm 0 Tr (= ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 127.12 Tm 0 Tr (open) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 127.12 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 95.55 127.12 Tm 0 Tr ("filename.txt") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 127.12 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 172.35 127.12 Tm 0 Tr ("r") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 127.12 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 138.46 Tm 0 Tr (406  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 138.46 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 138.46 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 138.46 Tm 0 Tr (f) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 138.46 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 138.46 Tm 0 Tr (read) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 138.46 Tm 0 Tr (\(\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 149.80 Tm 0 Tr (407  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 149.80 Tm 0 Tr (#read the whole text) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 161.14 Tm 0 Tr (408  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 161.14 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 161.14 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 81.15 161.14 Tm 0 Tr (f) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 161.14 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 161.14 Tm 0 Tr (readline) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 161.14 Tm 0 Tr (\(\)\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 172.48 Tm 0 Tr (409  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 172.48 Tm 0 Tr (#read only one line) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 183.82 Tm 0 Tr (410  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 195.16 Tm 0 Tr (411  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 195.16 Tm 0 Tr (f ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 195.16 Tm 0 Tr (= ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 195.16 Tm 0 Tr (open) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 195.16 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 95.55 195.16 Tm 0 Tr ("demofile.txt") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 195.16 Tm 0 Tr (,) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 167.55 195.16 Tm 0 Tr ("r") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 181.95 195.16 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 206.49 Tm 0 Tr (412  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 206.49 Tm 0 Tr (for ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 206.49 Tm 0 Tr (x ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 81.15 206.49 Tm 0 Tr (in ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 95.55 206.49 Tm 0 Tr (f) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 206.49 Tm 0 Tr (:) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 217.83 Tm 0 Tr (413  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 217.83 Tm 0 Tr (  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 61.95 217.83 Tm 0 Tr (print) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 217.83 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 217.83 Tm 0 Tr (x) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 217.83 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 229.17 Tm 0 Tr (414  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 229.17 Tm 0 Tr (#read line-by-line) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 240.51 Tm 0 Tr (415  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 240.51 Tm 0 Tr (f) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 57.15 240.51 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 61.95 240.51 Tm 0 Tr (close) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 240.51 Tm 0 Tr (\(\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 251.85 Tm 0 Tr (416  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 263.19 Tm 0 Tr (417  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 263.19 Tm 0 Tr (#writing) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 274.53 Tm 0 Tr (418  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 274.53 Tm 0 Tr (#1. append) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 285.86 Tm 0 Tr (419  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 285.86 Tm 0 Tr (f ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 285.86 Tm 0 Tr (= ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 285.86 Tm 0 Tr (open) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 285.86 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 95.55 285.86 Tm 0 Tr ("filename.txt") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 285.86 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 172.35 285.86 Tm 0 Tr ("a") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 285.86 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 297.20 Tm 0 Tr (420  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 297.20 Tm 0 Tr (f) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 57.15 297.20 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 61.95 297.20 Tm 0 Tr (write) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 297.20 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 90.75 297.20 Tm 0 Tr ("Here is the new content I add!") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 244.35 297.20 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 308.54 Tm 0 Tr (421  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 308.54 Tm 0 Tr (f) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 57.15 308.54 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 61.95 308.54 Tm 0 Tr (close) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 308.54 Tm 0 Tr (\(\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 319.88 Tm 0 Tr (422  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 331.22 Tm 0 Tr (423  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 331.22 Tm 0 Tr (#2. overwrite) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 342.56 Tm 0 Tr (424  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 342.56 Tm 0 Tr (f ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 61.95 342.56 Tm 0 Tr (= ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 342.56 Tm 0 Tr (open) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 342.56 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 95.55 342.56 Tm 0 Tr ("filename.txt") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 342.56 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 172.35 342.56 Tm 0 Tr ("w") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 342.56 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 353.90 Tm 0 Tr (425  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 353.90 Tm 0 Tr (f) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 57.15 353.90 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 61.95 353.90 Tm 0 Tr (write) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 353.90 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 90.75 353.90 Tm 0 Tr ("This is a brand-new line!") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 220.35 353.90 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 365.23 Tm 0 Tr (426  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 365.23 Tm 0 Tr (f) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 57.15 365.23 Tm 0 Tr (.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 61.95 365.23 Tm 0 Tr (close) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 365.23 Tm 0 Tr (\(\)) Tj  ET Q
+Q
+
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R ]
+/Count 7
+/MediaBox [0 0 595.276 841.890]
+>>
+endobj
+17 0 obj
+<</Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+18 0 obj
+<</Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F2 17 0 R
+/F1 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Names []
+>>
+endobj
+20 0 obj
+<<
+/Producer (þÿ w x P d f D o c u m e n t   0 . 9 . 8)
+/CreationDate (D:20230314201025)
+>>
+endobj
+21 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 22
+0000000000 65535 f 
+0000142318 00000 n 
+0000142641 00000 n 
+0000000009 00000 n 
+0000000098 00000 n 
+0000020534 00000 n 
+0000020623 00000 n 
+0000042738 00000 n 
+0000042827 00000 n 
+0000064812 00000 n 
+0000064902 00000 n 
+0000085323 00000 n 
+0000085414 00000 n 
+0000108325 00000 n 
+0000108416 00000 n 
+0000131726 00000 n 
+0000131817 00000 n 
+0000142446 00000 n 
+0000142546 00000 n 
+0000142757 00000 n 
+0000142789 00000 n 
+0000142897 00000 n 
+trailer
+<<
+/Size 22
+/Root 21 0 R
+/Info 20 0 R
+>>
+startxref
+143001
+%%EOF
